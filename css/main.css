@@ -1,0 +1,68 @@
+ul {
+    list-style-type: square;
+    font-style: italic;
+}
+
+select {
+    border-radius: 50px;
+    width: 200px;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background: floralwhite;
+    word-spacing: 3px;
+    margin: 0;
+}
+
+.container {
+    clear: both;
+    text-align: center;
+    height: auto;
+    position: relative;
+    width: 100%;
+}
+
+.content1 {
+    float: left;
+    text-align: left;
+    height: auto;
+    margin-top:50px;
+    margin-bottom:50px;
+    width: 50%;
+}
+.content2 {
+    float: left;
+    text-align: left;
+    height: auto;
+    margin-top:50px;
+    width: 50%;
+}
+
+#preloader{
+    clear: both;
+    height: 40px;
+}
+
+#list {
+    visibility: visible;
+}
+
+#clickA {
+    margin-left: 50px;
+}
+
+.insertInfoClass {
+    padding-top: 10px;
+    float: left;
+}
+
+.tr {
+    clear: both;
+}
+
+.pad {
+    padding-left: 25px;
+}
